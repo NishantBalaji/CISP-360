@@ -24,5 +24,5 @@ These are all the assignments I completed while enrolled in the CISP 360 course 
    - [ttt](https://github.com/NishantBalaji/CISP-360/blob/master/Week%207/Balaji_ttt.cpp)
    - [ex7](https://github.com/NishantBalaji/CISP-360/blob/master/Week%207/Balaji_Ex7.cpp)
 7. [Week 8](https://github.com/NishantBalaji/CISP-360/tree/master/Week%208)
-  - [final](https://github.com/NishantBalaji/CISP-360/blob/master/Week%208/Balaji_final.cpp)
-  - [ex8](https://github.com/NishantBalaji/CISP-360/blob/master/Week%208/Balaji_Ex8.cpp)
+   - [final](https://github.com/NishantBalaji/CISP-360/blob/master/Week%208/Balaji_final.cpp)
+   - [ex8](https://github.com/NishantBalaji/CISP-360/blob/master/Week%208/Balaji_Ex8.cpp)
