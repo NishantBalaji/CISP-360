@@ -1,5 +1,5 @@
 # CISP-360
-These are all the assignments I completed while enrolled in the CISP 360 course at Folsom Lake College from June 8 - July 31, 2020. This course was an introduction to C++ coding, thus all the code is in C++. 
+These are all the assignments I completed while enrolled in the CISP 360 course at Folsom Lake College from June 8 - July 31, 2020. This course was an introduction to C++, thus all the code is in C++. 
 
 ## Table of Contents
 1. [Week 1](https://github.com/NishantBalaji/CISP-360/tree/master/Week%201)
